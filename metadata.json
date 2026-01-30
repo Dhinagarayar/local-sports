@@ -1,0 +1,5 @@
+{
+  "name": "LeagueHub",
+  "description": "A reliable, real-time hub for local sports leagues to manage games, track live scores, and view history.",
+  "requestFramePermissions": []
+}
